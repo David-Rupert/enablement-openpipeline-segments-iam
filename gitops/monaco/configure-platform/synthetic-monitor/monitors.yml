@@ -18,7 +18,7 @@ configs:
   config:
     name: "argo | platform | healthcheck"
     parameters:
-      baseUrl: "https://musical-invention-9w99xvg65537xwr-ARGOCD_PORT_NUMBER_PLACEHOLDER.GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN_PLACEHOLDER"
+      baseUrl: "https://musical-invention-9w99xvg65537xwr-30100.GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN_PLACEHOLDER"
       frequencyMin: "1"
       enabled: "true"
       geoLocation: "GEOLOCATION-45AB48D9D6925ECC"
